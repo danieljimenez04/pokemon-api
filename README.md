@@ -13,4 +13,4 @@ que se usa haciendo el evento onClick y una ruta protegida aparte
 
 ## Referencias
 This task was created by Benjamin Flores and Academlo and made it by Daniel Jimenez
-Esta tarea fue creada por el profesor Benjamin Flores y Academolo y hecho por Daniel Jimenez, en colaboración con el docente
+Esta tarea fue creada por el profesor Benjamin Flores y Academlo y hecho por Daniel Jimenez, en colaboración con el docente
